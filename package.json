@@ -19,6 +19,6 @@
     "childProcess": "^1.0.2"
   },
   "devDependencies": {
-    // Adicione dependências de desenvolvimento aqui, se houver
+    // ESTE BLOCO ESTÁ VAZIO, CERTIFIQUE-SE DE QUE NÃO HÁ VÍRGULA AQUI SE FOR O ÚLTIMO ITEM
   }
 }
