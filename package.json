@@ -1,0 +1,24 @@
+{
+  "name": "minha-api-medusa",
+  "version": "1.0.0",
+  "description": "API Node.js MegaMedusa",
+  "main": "mdzd.js",
+  "scripts": {
+    "start": "node mdzd.js"
+  },
+  "dependencies": {
+    "url": "^0.11.0",
+    "https": "^1.0.0",
+    "net": "^1.0.2",
+    "crypto": "^1.0.1",
+    "axios": "^1.6.0",
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "request": "^2.88.2",
+    "header-generator": "^1.2.0",
+    "childProcess": "^1.0.2"
+  },
+  "devDependencies": {
+    // Adicione dependências de desenvolvimento aqui, se houver
+  }
+}
